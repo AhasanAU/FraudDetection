@@ -111,6 +111,7 @@ def predict_fraud(model, df, features, threshold=0.17):
 st.title("🛡️ Bitcoin Fraud Detection System")
 st.markdown("""
 This application uses a machine-learning **Support Vector Machine (SVM)** to detect illicit transactions on the Bitcoin blockchain.
+**Developed by: Md Ahasan Kabir**
 """)
 
 # Load assets
